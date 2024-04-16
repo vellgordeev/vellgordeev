@@ -14,7 +14,7 @@
 
 
 
-## 🧭 Контактные данные
+## ☎️ Контактные данные
 [<img src='other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/valentin-gordeev-163181123/)
 [<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/valentine_iam)
 [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:qa@valentin-gordeev.ru) 
