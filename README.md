@@ -1,32 +1,29 @@
-# Всем привет! 👋
+# Hello everyone! 👋
 
+## 🙋‍♂️ About Me
 
-## 🙋‍♂️ Обо мне
+- **QA/SDET** with over 4 years of experience.
+- Skilled in designing and implementing test automation frameworks, as well as building custom tools to streamline testing.
+- Specializing in functional, integration, API, and performance testing.
+- Experienced in log analysis, incident investigation, and creating comprehensive test documentation.
+- Industry background includes fintech, game development, and a major telecom operator.
+- Additional roles: Release Manager, on-call L3 support for critical issues.
+- Automation using **Java/Go**; proficient with **Selenide**, **RestAssured**, **Gatling**.
+- Familiar with **CI/CD** processes and workflow optimization.
 
-- **Инженер по тестированию** с опытом работы более 4 лет.
-- Специализация: функциональное, интеграционное, API и нагрузочное тестирование.
-- Опыт в анализе логов и разборе инцидентов.
-- Разработка тестовой документации, проектирование тестов различной детализации.
-- Опыт работы в финтехе, геймдеве и у федерального оператора связи.
-- Дополнительные роли: релиз-менеджер, дежурный по разбору проблем L3.
-- Автоматизация тестирования на **Java/Go**; использование **Selenide**, **RestAssured**, **Gatling**.
-- Знание **CI/CD** процессов, оптимизация рабочих процессов.
-
-
-
-## ☎️ Контактные данные
+## ☎️ Contact Information
 [<img src='other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/valentin-gordeev-163181123/)
 [<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/valentine_iam)
 [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:qa@valentin-gordeev.ru) 
 
-## 🐊 Тестовые проекты
+## 💻 Pet Project
+- [Online chat](https://github.com/vellgordeev/online-chat)
+
+## 🐊 Test Projects
 - [Ozon Web + mobile tests](https://github.com/vellgordeev/Ozon_Web-Mobile_autotests)
 - [Miro API tests](https://github.com/vellgordeev/MiroAPI_autotests)
 
-## 💻 Пет проекты
-- [Online chat](https://github.com/vellgordeev/online-chat)
-
-## 🛠️ Технологии, которыми владею
+## 🛠️ Technologies I Work With
 <div>
 <a href="https://www.oracle.com/java/"><img src="technologies/java.png" alt="Java" width="40" height="40"/></a>
 <a href="https://golang.org/"><img src="technologies/go.png" alt="Go" width="40" height="40"/></a>
@@ -44,8 +41,7 @@
 <a href="https://www.atlassian.com/software/confluence"><img src="technologies/confluence.png" alt="Confluence" width="40" height="40"/></a>
 </div>
 
-
-## Cтатистика
+## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vellgordeev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vellgordeev&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vellgordeev&theme=tokyonight)
