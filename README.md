@@ -22,7 +22,8 @@
 ## 🐊 Test Projects
 - [Ozon Web + mobile tests](https://github.com/vellgordeev/Ozon_Web-Mobile_autotests)
 - [Miro API tests](https://github.com/vellgordeev/MiroAPI_autotests)
-
+- [TeamCity WEB + API tests](https://github.com/vellgordeev/teamcity-autotests)
+  
 ## 🛠️ Technologies I Work With
 <div>
 <a href="https://www.oracle.com/java/"><img src="technologies/java.png" alt="Java" width="40" height="40"/></a>
