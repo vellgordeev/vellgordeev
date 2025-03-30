@@ -20,9 +20,9 @@
 - [Online chat](https://github.com/vellgordeev/online-chat)
 
 ## 🐊 Test Projects
+- [TeamCity Web + API tests](https://github.com/vellgordeev/teamcity-autotests)
 - [Ozon Web + mobile tests](https://github.com/vellgordeev/Ozon_Web-Mobile_autotests)
 - [Miro API tests](https://github.com/vellgordeev/MiroAPI_autotests)
-- [TeamCity WEB + API tests](https://github.com/vellgordeev/teamcity-autotests)
   
 ## 🛠️ Technologies I Work With
 <div>
