@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- **QA/SDET** with over 4 years of experience.
+- **QA/SDET** with 5 years of experience.
 - Skilled in designing and implementing test automation frameworks, as well as building custom tools to streamline testing.
 - Specializing in functional, integration, API, and performance testing.
 - Experienced in log analysis, incident investigation, and creating comprehensive test documentation.
