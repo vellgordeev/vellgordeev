@@ -16,13 +16,13 @@
 [<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/valentine_iam)
 [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:qa@valentin-gordeev.ru) 
 
-## 💻 Pet Project
-- [Online chat](https://github.com/vellgordeev/online-chat)
-
 ## 🐊 Test Projects
 - [TeamCity Web + API tests](https://github.com/vellgordeev/teamcity-autotests)
 - [Ozon Web + mobile tests](https://github.com/vellgordeev/Ozon_Web-Mobile_autotests)
 - [Miro API tests](https://github.com/vellgordeev/MiroAPI_autotests)
+
+## 💻 Simple Java study project
+- [Online chat](https://github.com/vellgordeev/online-chat)
   
 ## 🛠️ Technologies I Work With
 <div>
